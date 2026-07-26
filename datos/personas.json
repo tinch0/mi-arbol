@@ -37,6 +37,11 @@
       "id": 6,
       "nombre": "Elías Ciordia",
       "tipo": "abuelo paterno"
+    },
+    {
+      "id": 7,
+      "nombre": "Natividad Lafuente",
+      "tipo": "abuela paterna"
     }
   ]
 }

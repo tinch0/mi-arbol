@@ -4,6 +4,7 @@
 
 0 @I1@ INDI
 1 NAME Martín /Ciordia/
+1 SEX M
 1 BIRT
 2 DATE 16 JUL 1976
 2 PLAC Buenos Aires, Argentina
@@ -11,38 +12,53 @@
 
 0 @I2@ INDI
 1 NAME Elías /Ciordia/
-1 FAMC @F3@
+1 SEX M
+1 FAMC @F2@
 1 FAMS @F1@
 
 0 @I3@ INDI
 1 NAME Mónica Delia /Piñeiro/
-1 FAMC @F2@
+1 SEX F
+1 FAMC @F3@
 1 FAMS @F1@
 
 0 @I4@ INDI
 1 NAME Pedro Rubén /Piñeiro/
-1 FAMS @F2@
+1 SEX M
+1 FAMS @F3@
 
 0 @I5@ INDI
 1 NAME Delia /Pandolfi/
-1 FAMS @F2@
+1 SEX F
+1 FAMS @F3@
 
 0 @I6@ INDI
 1 NAME Elías /Ciordia/
-1 FAMS @F3@
+1 SEX M
+1 FAMS @F2@
+
+0 @I7@ INDI
+1 NAME Natividad /Lafuente/
+1 SEX F
+1 FAMS @F2@
+
 
 0 @F1@ FAM
 1 HUSB @I2@
 1 WIFE @I3@
 1 CHIL @I1@
 
+
 0 @F2@ FAM
+1 HUSB @I6@
+1 WIFE @I7@
+1 CHIL @I2@
+
+
+0 @F3@ FAM
 1 HUSB @I4@
 1 WIFE @I5@
 1 CHIL @I3@
 
-0 @F3@ FAM
-1 HUSB @I6@
-1 CHIL @I2@
 
 0 TRLR

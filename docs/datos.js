@@ -40,6 +40,10 @@ relacion:"Abuela materna"
 id:6,
 nombre:"Elías Ciordia",
 relacion:"Abuelo paterno"
+},
+{
+id:7,
+nombre:"Natividad Lafuente",
+relacion:"Abuela paterna"
 }
-
 ];

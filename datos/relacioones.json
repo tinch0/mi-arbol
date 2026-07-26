@@ -23,5 +23,10 @@
     "tipo": "padre",
     "persona": 6,
     "hijo": 2
+  },
+  {
+    "tipo": "madre",
+    "persona": 7,
+    "hijo": 2
   }
 ]
