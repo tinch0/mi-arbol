@@ -10,7 +10,6 @@ padre:2,
 madre:3,
 rama:"Ciordia"
 },
-
 {
 id:2,
 nombre:"Elías Ciordia",

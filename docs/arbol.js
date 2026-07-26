@@ -115,8 +115,8 @@ function construirArbol(){
     );
 
 
-    let padre=buscarPersona(raiz.padre);
-    let madre=buscarPersona(raiz.madre);
+let padre=buscarPersona(raiz.padre) || {};
+let madre=buscarPersona(raiz.madre) || {};
 
 
     contenedor.appendChild(
