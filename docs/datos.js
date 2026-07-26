@@ -52,6 +52,8 @@ id:6,
 nombre:"Elías Ciordia",
 sexo:"M",
 relacion:"Abuelo paterno",
+nacimiento:"1921",
+lugar:"España",
 rama:"Ciordia",
 migracion:"España → Argentina (1948)"
 },
@@ -61,14 +63,13 @@ id:7,
 nombre:"Natividad Lafuente",
 sexo:"F",
 relacion:"Abuela paterna",
-nacimiento:"Década de 1920",
+nacimiento:"1926",
 lugar:"Barcelona, Cataluña, España",
 idiomas:[
 "Español",
 "Catalán"
 ],
-migracion:
-"Barcelona, Cataluña → Argentina (1949)",
+migracion:"Barcelona, Cataluña → Argentina (1949)",
 rama:"Lafuente"
 }
 

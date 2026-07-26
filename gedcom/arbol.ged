@@ -35,16 +35,20 @@
 0 @I6@ INDI
 1 NAME Elías /Ciordia/
 1 SEX M
+1 BIRT
+2 DATE 1921
+2 PLAC España
 1 FAMS @F2@
+1 NOTE Emigró desde España hacia Argentina en 1948.
 
 0 @I7@ INDI
 1 NAME Natividad /Lafuente/
 1 SEX F
 1 BIRT
-2 DATE ABT 1920
+2 DATE 1926
 2 PLAC Barcelona, Cataluña, España
 1 FAMS @F2@
-1 NOTE Emigró desde Barcelona hacia Argentina en 1949. Llegó aproximadamente un año después que Elías Ciordia.
+1 NOTE Emigró desde Barcelona hacia Argentina en 1949. Hablaba español y catalán.
 
 
 0 @F1@ FAM
