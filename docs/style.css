@@ -109,3 +109,12 @@ cursor:pointer;
 transform:translateY(-5px);
 
 }
+
+button{
+
+padding:8px 15px;
+border-radius:8px;
+border:none;
+cursor:pointer;
+
+}

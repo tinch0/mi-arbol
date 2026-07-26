@@ -5,11 +5,21 @@ const ventana=document.getElementById("ficha");
 
 ventana.innerHTML=`
 
+<button onclick="cerrarFicha()">
+❌ Cerrar
+</button>
+
 <h2>${persona.nombre}</h2>
+
 
 <p>
 <b>Rama:</b> ${persona.rama || "Sin definir"}
 </p>
+
+
+${persona.relacion ?
+`<p><b>Relación:</b> ${persona.relacion}</p>`
+:""}
 
 
 ${persona.nacimiento ?
@@ -41,7 +51,14 @@ ${persona.migracion}
 `
 :""}
 
-
 `;
+
+}
+
+
+function cerrarFicha(){
+
+document.getElementById("ficha").innerHTML=
+"<h2>Seleccioná una persona</h2>";
 
 }
