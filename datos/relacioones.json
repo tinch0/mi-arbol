@@ -1,0 +1,27 @@
+[
+  {
+    "tipo": "padre",
+    "persona": 2,
+    "hijo": 1
+  },
+  {
+    "tipo": "madre",
+    "persona": 3,
+    "hijo": 1
+  },
+  {
+    "tipo": "padre",
+    "persona": 4,
+    "hijo": 3
+  },
+  {
+    "tipo": "madre",
+    "persona": 5,
+    "hijo": 3
+  },
+  {
+    "tipo": "padre",
+    "persona": 6,
+    "hijo": 2
+  }
+]

@@ -1,0 +1,42 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "Martín Ciordia",
+      "nacimiento": {
+        "fecha": "1976-07-16",
+        "lugar": "Buenos Aires, Argentina"
+      },
+      "padre": 2,
+      "madre": 3
+    },
+    {
+      "id": 2,
+      "nombre": "Elías Ciordia",
+      "tipo": "padre de Martín Ciordia",
+      "padre": 6
+    },
+    {
+      "id": 3,
+      "nombre": "Mónica Delia Piñeiro",
+      "tipo": "madre de Martín Ciordia",
+      "padre": 4,
+      "madre": 5
+    },
+    {
+      "id": 4,
+      "nombre": "Pedro Rubén Piñeiro",
+      "tipo": "abuelo materno"
+    },
+    {
+      "id": 5,
+      "nombre": "Delia Pandolfi",
+      "tipo": "abuela materna"
+    },
+    {
+      "id": 6,
+      "nombre": "Elías Ciordia",
+      "tipo": "abuelo paterno"
+    }
+  ]
+}
