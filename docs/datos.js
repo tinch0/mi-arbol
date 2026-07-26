@@ -1,5 +1,4 @@
 const personas = [
-
 {
 id:1,
 nombre:"Martín Ciordia",
@@ -8,7 +7,12 @@ nacimiento:"16 de julio de 1976",
 lugar:"Buenos Aires, Argentina",
 padre:2,
 madre:3,
-rama:"Ciordia"
+ramas:[
+"Ciordia",
+"Lafuente",
+"Piñeiro",
+"Pandolfi"
+]
 },
 {
 id:2,
