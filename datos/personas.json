@@ -38,10 +38,17 @@
       "nombre": "Elías Ciordia",
       "tipo": "abuelo paterno"
     },
-    {
-      "id": 7,
-      "nombre": "Natividad Lafuente",
-      "tipo": "abuela paterna"
-    }
+{
+  "id": 7,
+  "nombre": "Natividad Lafuente",
+  "tipo": "abuela paterna",
+  "nacimiento": {
+    "fecha": "Década de 1920",
+    "lugar": "Barcelona, Cataluña, España"
+  },
+  "conyuge": 6,
+  "hijo": 2,
+  "verificacion": "Dato familiar pendiente de documentación"
+}
   ]
 }

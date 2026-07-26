@@ -1,5 +1,25 @@
 # Natividad Lafuente
 
+## Datos personales
+
+- Nombre: Natividad Lafuente
+- Nacimiento aproximado: década de 1920
+- Lugar de nacimiento: Barcelona, Cataluña, España
+
+## Idiomas
+
+- Español
+- Catalán
+
+## Migración
+
+- Origen: Barcelona, Cataluña, España.
+- Destino: Argentina.
+- Llegada aproximada: década de 1940.
+- Viajó aproximadamente un año después que Elías Ciordia.
+- Elías Ciordia emigró primero a Argentina.
+- Natividad Lafuente llegó posteriormente y luego formaron su familia.
+
 ## Relación familiar
 
 Abuela paterna de Martín Ciordia.
@@ -12,12 +32,16 @@ Abuela paterna de Martín Ciordia.
 
 - Elías Ciordia (padre de Martín)
 
-## Datos pendientes
+## Línea familiar
 
-- Fecha de nacimiento
-- Lugar de nacimiento
-- Padres
-- Origen del apellido Lafuente
-- Matrimonio
-- Defunción
-- Documentos históricos
+Lafuente → Ciordia → Martín Ciordia
+
+## Investigación pendiente
+
+- Fecha exacta de nacimiento.
+- Municipio exacto de Barcelona.
+- Nombre de sus padres.
+- Fecha y lugar de salida de España.
+- Barco o puerto de llegada.
+- Fecha exacta de llegada a Argentina.
+- Matrimonio con Elías Ciordia.
