@@ -69,3 +69,43 @@ text-align:center;
 padding:30px;
 
 }
+
+.generacion{
+
+margin:40px 0;
+text-align:center;
+
+}
+
+
+.generacion h2{
+
+font-size:22px;
+color:#444;
+
+}
+
+
+.ramas{
+
+display:flex;
+justify-content:center;
+gap:25px;
+flex-wrap:wrap;
+
+}
+
+
+.persona{
+
+transition:0.2s;
+
+}
+
+
+.persona:hover{
+
+cursor:pointer;
+transform:translateY(-5px);
+
+}
