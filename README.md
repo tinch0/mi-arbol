@@ -1,43 +1,19 @@
-# mi-arbol
-# Árbol Genealógico Ciordia - Piñeiro
+# Sitio web del árbol genealógico
 
-Proyecto de investigación genealógica de la familia Ciordia, Piñeiro y Pandolfi.
+Esta carpeta contiene la primera versión visual del árbol familiar.
 
-## Objetivo
+## Publicación con GitHub Pages
 
-Reconstruir la historia familiar mediante:
+Pasos:
 
-- registros civiles
-- documentos históricos
-- fotografías familiares
-- archivos de inmigración
-- testimonios familiares
-- fuentes verificables
+1. Ir al repositorio.
+2. Entrar en Settings.
+3. Pages.
+4. Source:
+   - Deploy from branch
+   - Branch: main
+   - Folder: /sitio-web
 
-## Familias investigadas
+Luego GitHub generará una dirección web:
 
-- Ciordia
-- Piñeiro
-- Pandolfi
-
-## Estructura del proyecto
-personas/ Fichas individuales
-familias/ Investigación por apellido
-documentos/ Actas, fotos y archivos
-fuentes/ Referencias utilizadas
-datos/ Base de datos genealógica
-gedcom/ Archivo compatible con software genealógico
-timeline/ Cronología familiar
-
-
-## Estado
-
-🟡 Investigación inicial.
-
-## Próximos objetivos
-
-- Completar datos de nacimiento, matrimonio y defunción.
-- Identificar lugares de origen.
-- Investigar inmigración.
-- Construir árbol visual.
-- Publicar versión web.
+https://tinch0.github.io/mi-arbol/
