@@ -15,10 +15,10 @@
 
 - Origen: Barcelona, Cataluña, España.
 - Destino: Argentina.
-- Llegada aproximada: década de 1940.
+- Llegada a Argentina: 1949.
 - Viajó aproximadamente un año después que Elías Ciordia.
-- Elías Ciordia emigró primero a Argentina.
-- Natividad Lafuente llegó posteriormente y luego formaron su familia.
+- Elías Ciordia llegó primero a Argentina en 1948.
+- Posteriormente formaron su familia en Argentina.
 
 ## Relación familiar
 

@@ -52,7 +52,8 @@ id:6,
 nombre:"Elías Ciordia",
 sexo:"M",
 relacion:"Abuelo paterno",
-rama:"Ciordia"
+rama:"Ciordia",
+migracion:"España → Argentina (1948)"
 },
 
 {
@@ -67,7 +68,7 @@ idiomas:[
 "Catalán"
 ],
 migracion:
-"España → Argentina década de 1940",
+"Barcelona, Cataluña → Argentina (1949)",
 rama:"Lafuente"
 }
 

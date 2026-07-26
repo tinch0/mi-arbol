@@ -1,5 +1,15 @@
 # Cronología familiar
 
+## 1948
+
+Elías Ciordia emigra desde España hacia Argentina.
+
+## 1949
+
+Natividad Lafuente emigra desde Barcelona, Cataluña hacia Argentina.
+
+Llega aproximadamente un año después que Elías Ciordia.
+
 ## 1976
 
 ### 16 de julio

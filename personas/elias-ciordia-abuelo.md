@@ -15,3 +15,10 @@ Padre de:
 - Padres
 - Posible origen del apellido Ciordia
 - Registros históricos
+
+## Migración familiar
+
+Según información familiar:
+
+- Elías Ciordia emigró a Argentina en 1948.
+- Posteriormente llegó Natividad Lafuente en 1949.
