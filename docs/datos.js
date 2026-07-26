@@ -16,6 +16,7 @@ id:2,
 nombre:"Elías Ciordia",
 sexo:"M",
 relacion:"Padre de Martín",
+nacionalidad:"Argentino",
 padre:6,
 madre:7,
 rama:"Ciordia"

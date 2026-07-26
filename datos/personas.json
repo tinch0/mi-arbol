@@ -11,11 +11,13 @@
       "madre": 3
     },
     {
-      "id": 2,
-      "nombre": "Elías Ciordia",
-      "tipo": "padre de Martín Ciordia",
-      "padre": 6
-    },
+  "id": 2,
+  "nombre": "Elías Ciordia",
+  "tipo": "padre de Martín",
+  "nacionalidad": "Argentino",
+  "padre": 6,
+  "madre": 7
+},
     {
       "id": 3,
       "nombre": "Mónica Delia Piñeiro",
